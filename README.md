@@ -1,6 +1,6 @@
 # CrudAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Projeto CRUD feito utilizando Angular e Spring Boot.
 
 ## Development server
 
